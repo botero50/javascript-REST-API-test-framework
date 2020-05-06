@@ -1,4 +1,4 @@
-This framework is using gorest.co.in public APIs to test
+#This framework is using gorest.co.in public APIs to test
 
 ## Setup
 * Run `$ npm install`
